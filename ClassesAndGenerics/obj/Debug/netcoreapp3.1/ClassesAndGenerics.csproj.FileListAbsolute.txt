@@ -8,3 +8,4 @@ C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGen
 C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.AssemblyInfo.cs
 C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.dll
 C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.pdb
+C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.csprojAssemblyReference.cache

@@ -1,32 +1,21 @@
 ﻿using System;
-using System.Runtime.InteropServices;
-using System.Globalization;
-using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.IO;
-using System.Text;
-using System.Linq;
-using System.Collections.ObjectModel;
-using System.Runtime.Serialization;
-using System.Security.Permissions;
 
 namespace ComparableDemo
 {
-    public static class ClassesExtensionMethods
-    {
-        public static IEnumerable<T> EveryOther<T>(this IEnumerable<T> enumerable)
-        {
-            bool retNext = true;
-            foreach (T t in enumerable)
-            {
-                if (retNext) yield return t;
-                retNext = !retNext;
-            }
-        }
+    //public static class ClassesExtensionMethods
+    //{
+    //    public static IEnumerable<T> EveryOther<T>(this IEnumerable<T> enumerable)
+    //    {
+    //        bool retNext = true;
+    //        foreach (T t in enumerable)
+    //        {
+    //            if (retNext) yield return t;
+    //            retNext = !retNext;
+    //        }
+    //    }
 
-    }
+    //}
 
     public class ClassesAndGenerics
     {
@@ -166,6 +155,13 @@ namespace ComparableDemo
                 Console.WriteLine($"{kvp.Key} : {kvp.Value}");
             }
         }
+        #endregion
+
+        #region"1.3 Making a Type Searchable"
+
+
+
+
         #endregion
     }
 }
