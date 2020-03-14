@@ -1,6 +1,0 @@
-﻿@model IEnumerable<string>
-@{
-    string listName = (string)ViewData.ModelMetadata.AdditionalValues["ListName"];
-    @Html.ListBox("", listName, Model)
-}
-
