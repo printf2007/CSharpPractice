@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\TestStack\obj\Debug\netcoreapp3.1\TestStack.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\TestStack\obj\Debug\netcoreapp3.1\TestStack.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\TestStack\obj\Debug\netcoreapp3.1\TestStack.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\TestStack\bin\Debug\netcoreapp3.1\TestStack.exe
+C:\MyGit\CSharpPractice\TestStack\bin\Debug\netcoreapp3.1\TestStack.deps.json
+C:\MyGit\CSharpPractice\TestStack\bin\Debug\netcoreapp3.1\TestStack.runtimeconfig.json
+C:\MyGit\CSharpPractice\TestStack\bin\Debug\netcoreapp3.1\TestStack.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\TestStack\bin\Debug\netcoreapp3.1\TestStack.dll
+C:\MyGit\CSharpPractice\TestStack\bin\Debug\netcoreapp3.1\TestStack.pdb
+C:\MyGit\CSharpPractice\TestStack\obj\Debug\netcoreapp3.1\TestStack.dll
+C:\MyGit\CSharpPractice\TestStack\obj\Debug\netcoreapp3.1\TestStack.pdb

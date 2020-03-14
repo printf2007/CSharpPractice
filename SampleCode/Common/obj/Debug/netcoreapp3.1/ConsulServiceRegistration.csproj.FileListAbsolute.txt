@@ -1,0 +1,5 @@
+C:\MyGit\CSharpPractice\Common\bin\Debug\netcoreapp3.1\ConsulServiceRegistration.deps.json
+C:\MyGit\CSharpPractice\Common\bin\Debug\netcoreapp3.1\ConsulServiceRegistration.dll
+C:\MyGit\CSharpPractice\Common\obj\Debug\netcoreapp3.1\ConsulServiceRegistration.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\Common\obj\Debug\netcoreapp3.1\ConsulServiceRegistration.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\Common\obj\Debug\netcoreapp3.1\ConsulServiceRegistration.AssemblyInfo.cs

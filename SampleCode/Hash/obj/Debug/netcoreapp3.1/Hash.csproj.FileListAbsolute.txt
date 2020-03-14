@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\Hash\bin\Debug\netcoreapp3.1\Hash.exe
+C:\MyGit\CSharpPractice\Hash\bin\Debug\netcoreapp3.1\Hash.deps.json
+C:\MyGit\CSharpPractice\Hash\bin\Debug\netcoreapp3.1\Hash.runtimeconfig.json
+C:\MyGit\CSharpPractice\Hash\bin\Debug\netcoreapp3.1\Hash.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\Hash\bin\Debug\netcoreapp3.1\Hash.dll
+C:\MyGit\CSharpPractice\Hash\bin\Debug\netcoreapp3.1\Hash.pdb
+C:\MyGit\CSharpPractice\Hash\obj\Debug\netcoreapp3.1\Hash.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\Hash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\Hash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\Hash\obj\Debug\netcoreapp3.1\Hash.dll
+C:\MyGit\CSharpPractice\Hash\obj\Debug\netcoreapp3.1\Hash.pdb

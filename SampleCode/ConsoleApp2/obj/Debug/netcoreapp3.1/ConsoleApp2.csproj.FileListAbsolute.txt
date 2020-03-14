@@ -1,0 +1,4 @@
+C:\MyGit\CSharpPractice\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\MyGit\CSharpPractice\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs

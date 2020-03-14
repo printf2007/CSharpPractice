@@ -1,0 +1,10 @@
+C:\MyGit\CSharpPractice\TestFunction\bin\Debug\netcoreapp3.1\TestFunction.exe
+C:\MyGit\CSharpPractice\TestFunction\bin\Debug\netcoreapp3.1\TestFunction.deps.json
+C:\MyGit\CSharpPractice\TestFunction\bin\Debug\netcoreapp3.1\TestFunction.runtimeconfig.json
+C:\MyGit\CSharpPractice\TestFunction\bin\Debug\netcoreapp3.1\TestFunction.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\TestFunction\bin\Debug\netcoreapp3.1\TestFunction.dll
+C:\MyGit\CSharpPractice\TestFunction\bin\Debug\netcoreapp3.1\TestFunction.pdb
+C:\MyGit\CSharpPractice\TestFunction\obj\Debug\netcoreapp3.1\TestFunction.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\TestFunction\obj\Debug\netcoreapp3.1\TestFunction.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\TestFunction\obj\Debug\netcoreapp3.1\TestFunction.dll
+C:\MyGit\CSharpPractice\TestFunction\obj\Debug\netcoreapp3.1\TestFunction.pdb

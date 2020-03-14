@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\EventTest\bin\Debug\netcoreapp3.1\EventTest.exe
+C:\MyGit\CSharpPractice\EventTest\bin\Debug\netcoreapp3.1\EventTest.deps.json
+C:\MyGit\CSharpPractice\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.json
+C:\MyGit\CSharpPractice\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\EventTest\bin\Debug\netcoreapp3.1\EventTest.dll
+C:\MyGit\CSharpPractice\EventTest\bin\Debug\netcoreapp3.1\EventTest.pdb
+C:\MyGit\CSharpPractice\EventTest\obj\Debug\netcoreapp3.1\EventTest.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\EventTest\obj\Debug\netcoreapp3.1\EventTest.dll
+C:\MyGit\CSharpPractice\EventTest\obj\Debug\netcoreapp3.1\EventTest.pdb

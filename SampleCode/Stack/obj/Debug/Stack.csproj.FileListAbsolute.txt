@@ -1,0 +1,8 @@
+C:\MyGit\CSharpPractice\Stack\bin\Debug\Stack.exe.config
+C:\MyGit\CSharpPractice\Stack\bin\Debug\Stack.exe
+C:\MyGit\CSharpPractice\Stack\bin\Debug\Stack.pdb
+C:\MyGit\CSharpPractice\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\Stack\obj\Debug\Stack.exe
+C:\MyGit\CSharpPractice\Stack\obj\Debug\Stack.pdb
+C:\MyGit\CSharpPractice\Stack\bin\Debug\NPoco.dll
+C:\MyGit\CSharpPractice\Stack\obj\Debug\Stack.csproj.CopyComplete

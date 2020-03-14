@@ -1,0 +1,10 @@
+C:\MyGit\CSharpPractice\TestIterator\bin\Debug\netcoreapp3.1\TestIterator.exe
+C:\MyGit\CSharpPractice\TestIterator\bin\Debug\netcoreapp3.1\TestIterator.deps.json
+C:\MyGit\CSharpPractice\TestIterator\bin\Debug\netcoreapp3.1\TestIterator.runtimeconfig.json
+C:\MyGit\CSharpPractice\TestIterator\bin\Debug\netcoreapp3.1\TestIterator.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\TestIterator\bin\Debug\netcoreapp3.1\TestIterator.dll
+C:\MyGit\CSharpPractice\TestIterator\bin\Debug\netcoreapp3.1\TestIterator.pdb
+C:\MyGit\CSharpPractice\TestIterator\obj\Debug\netcoreapp3.1\TestIterator.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\TestIterator\obj\Debug\netcoreapp3.1\TestIterator.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\TestIterator\obj\Debug\netcoreapp3.1\TestIterator.dll
+C:\MyGit\CSharpPractice\TestIterator\obj\Debug\netcoreapp3.1\TestIterator.pdb

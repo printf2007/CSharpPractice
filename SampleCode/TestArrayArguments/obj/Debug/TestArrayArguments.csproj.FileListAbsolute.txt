@@ -1,0 +1,6 @@
+C:\MyGit\CSharpPractice\TestArrayArguments\bin\Debug\TestArrayArguments.exe.config
+C:\MyGit\CSharpPractice\TestArrayArguments\bin\Debug\TestArrayArguments.exe
+C:\MyGit\CSharpPractice\TestArrayArguments\bin\Debug\TestArrayArguments.pdb
+C:\MyGit\CSharpPractice\TestArrayArguments\obj\Debug\TestArrayArguments.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\TestArrayArguments\obj\Debug\TestArrayArguments.exe
+C:\MyGit\CSharpPractice\TestArrayArguments\obj\Debug\TestArrayArguments.pdb

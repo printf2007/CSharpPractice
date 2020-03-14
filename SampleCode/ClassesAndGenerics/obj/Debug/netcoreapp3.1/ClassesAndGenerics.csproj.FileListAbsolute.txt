@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\ClassesAndGenerics\bin\Debug\netcoreapp3.1\ClassesAndGenerics.exe
+C:\MyGit\CSharpPractice\ClassesAndGenerics\bin\Debug\netcoreapp3.1\ClassesAndGenerics.deps.json
+C:\MyGit\CSharpPractice\ClassesAndGenerics\bin\Debug\netcoreapp3.1\ClassesAndGenerics.runtimeconfig.json
+C:\MyGit\CSharpPractice\ClassesAndGenerics\bin\Debug\netcoreapp3.1\ClassesAndGenerics.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\ClassesAndGenerics\bin\Debug\netcoreapp3.1\ClassesAndGenerics.dll
+C:\MyGit\CSharpPractice\ClassesAndGenerics\bin\Debug\netcoreapp3.1\ClassesAndGenerics.pdb
+C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.dll
+C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.pdb
+C:\MyGit\CSharpPractice\ClassesAndGenerics\obj\Debug\netcoreapp3.1\ClassesAndGenerics.csprojAssemblyReference.cache

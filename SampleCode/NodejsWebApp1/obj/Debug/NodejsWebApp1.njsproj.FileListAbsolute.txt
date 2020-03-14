@@ -1,0 +1,2 @@
+C:\MyGit\CSharpPractice\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll

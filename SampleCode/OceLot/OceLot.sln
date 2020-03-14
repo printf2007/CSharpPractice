@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceLot", "OceLot.csproj", "{658CCC29-B9BA-4204-B340-55173A889840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658CCC29-B9BA-4204-B340-55173A889840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658CCC29-B9BA-4204-B340-55173A889840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658CCC29-B9BA-4204-B340-55173A889840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658CCC29-B9BA-4204-B340-55173A889840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5200D503-8911-4BBC-837E-5D29C1CF28AF}
+	EndGlobalSection
+EndGlobal

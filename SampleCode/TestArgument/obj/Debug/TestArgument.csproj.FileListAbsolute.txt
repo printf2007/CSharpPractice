@@ -1,0 +1,5 @@
+C:\MyGit\CSharpPractice\TestArgument\bin\Debug\TestArgument.exe.config
+C:\MyGit\CSharpPractice\TestArgument\bin\Debug\TestArgument.exe
+C:\MyGit\CSharpPractice\TestArgument\bin\Debug\TestArgument.pdb
+C:\MyGit\CSharpPractice\TestArgument\obj\Debug\TestArgument.exe
+C:\MyGit\CSharpPractice\TestArgument\obj\Debug\TestArgument.pdb

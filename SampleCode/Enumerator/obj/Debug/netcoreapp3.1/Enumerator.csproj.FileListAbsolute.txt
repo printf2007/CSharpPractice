@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.exe
+C:\MyGit\CSharpPractice\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.deps.json
+C:\MyGit\CSharpPractice\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.runtimeconfig.json
+C:\MyGit\CSharpPractice\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.dll
+C:\MyGit\CSharpPractice\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.pdb
+C:\MyGit\CSharpPractice\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.dll
+C:\MyGit\CSharpPractice\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.pdb

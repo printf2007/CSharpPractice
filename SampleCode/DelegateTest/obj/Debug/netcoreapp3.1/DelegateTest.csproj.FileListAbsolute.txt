@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.exe
+C:\MyGit\CSharpPractice\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.deps.json
+C:\MyGit\CSharpPractice\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.runtimeconfig.json
+C:\MyGit\CSharpPractice\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.dll
+C:\MyGit\CSharpPractice\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.pdb
+C:\MyGit\CSharpPractice\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.dll
+C:\MyGit\CSharpPractice\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.pdb

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <ProductName>Chapter20</ProductName>
+    <WarningLevel>2</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <StartupObject>AddisonWesley.Michaelis.EssentialCSharp.Shared.Program</StartupObject> 
+  </PropertyGroup>
+  <Import Project="..\Versioning.targets" />
+  <ItemGroup>
+    <Compile Include="..\Shared\DoWorkEventArgs.cs" Link="DoWorkEventArgs.cs" />
+    <Compile Include="..\Shared\PiCalculator+InternalPiDigitCalculator.cs" Link="PiCalculator+InternalPiDigitCalculator.cs" />
+    <Compile Include="..\Shared\PiCalculator.cs" Link="PiCalculator.cs" />
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>

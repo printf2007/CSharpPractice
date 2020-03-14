@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\jquery-1.6.2.min.js" />
+    <None Include="wwwroot\lib\jump1.jpg" />
+    <None Include="wwwroot\lib\jump2.jpg" />
+    <None Include="wwwroot\lib\jump3.jpg" />
+    <None Include="wwwroot\lib\jump4.jpg" />
+  </ItemGroup>
+
+
+
+</Project>

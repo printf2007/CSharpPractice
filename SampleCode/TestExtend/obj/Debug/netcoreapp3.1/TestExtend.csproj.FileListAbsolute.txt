@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\TestExtend\bin\Debug\netcoreapp3.1\TestExtend.exe
+C:\MyGit\CSharpPractice\TestExtend\bin\Debug\netcoreapp3.1\TestExtend.deps.json
+C:\MyGit\CSharpPractice\TestExtend\bin\Debug\netcoreapp3.1\TestExtend.runtimeconfig.json
+C:\MyGit\CSharpPractice\TestExtend\bin\Debug\netcoreapp3.1\TestExtend.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\TestExtend\bin\Debug\netcoreapp3.1\TestExtend.dll
+C:\MyGit\CSharpPractice\TestExtend\bin\Debug\netcoreapp3.1\TestExtend.pdb
+C:\MyGit\CSharpPractice\TestExtend\obj\Debug\netcoreapp3.1\TestExtend.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\TestExtend\obj\Debug\netcoreapp3.1\TestExtend.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\TestExtend\obj\Debug\netcoreapp3.1\TestExtend.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\TestExtend\obj\Debug\netcoreapp3.1\TestExtend.dll
+C:\MyGit\CSharpPractice\TestExtend\obj\Debug\netcoreapp3.1\TestExtend.pdb

@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\testProperty\bin\Debug\netcoreapp3.1\testProperty.exe
+C:\MyGit\CSharpPractice\testProperty\bin\Debug\netcoreapp3.1\testProperty.deps.json
+C:\MyGit\CSharpPractice\testProperty\bin\Debug\netcoreapp3.1\testProperty.runtimeconfig.json
+C:\MyGit\CSharpPractice\testProperty\bin\Debug\netcoreapp3.1\testProperty.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\testProperty\bin\Debug\netcoreapp3.1\testProperty.dll
+C:\MyGit\CSharpPractice\testProperty\bin\Debug\netcoreapp3.1\testProperty.pdb
+C:\MyGit\CSharpPractice\testProperty\obj\Debug\netcoreapp3.1\testProperty.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\testProperty\obj\Debug\netcoreapp3.1\testProperty.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\testProperty\obj\Debug\netcoreapp3.1\testProperty.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\testProperty\obj\Debug\netcoreapp3.1\testProperty.dll
+C:\MyGit\CSharpPractice\testProperty\obj\Debug\netcoreapp3.1\testProperty.pdb

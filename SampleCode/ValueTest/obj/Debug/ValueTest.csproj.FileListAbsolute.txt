@@ -1,0 +1,6 @@
+C:\MyGit\CSharpPractice\ValueTest\bin\Debug\ValueTest.exe.config
+C:\MyGit\CSharpPractice\ValueTest\bin\Debug\ValueTest.exe
+C:\MyGit\CSharpPractice\ValueTest\bin\Debug\ValueTest.pdb
+C:\MyGit\CSharpPractice\ValueTest\obj\Debug\ValueTest.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\ValueTest\obj\Debug\ValueTest.exe
+C:\MyGit\CSharpPractice\ValueTest\obj\Debug\ValueTest.pdb
