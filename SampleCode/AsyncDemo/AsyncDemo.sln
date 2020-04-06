@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDemo", "AsyncDemo.csproj", "{9CB1F93A-2CE9-433C-AC84-527AA099E7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynDemoEnhenced", "..\AsynDemoEnhenced\AsynDemoEnhenced.csproj", "{3ECA8C50-08DD-4AE9-902F-817B45DB7E7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB1F93A-2CE9-433C-AC84-527AA099E7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB1F93A-2CE9-433C-AC84-527AA099E7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB1F93A-2CE9-433C-AC84-527AA099E7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB1F93A-2CE9-433C-AC84-527AA099E7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECA8C50-08DD-4AE9-902F-817B45DB7E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECA8C50-08DD-4AE9-902F-817B45DB7E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECA8C50-08DD-4AE9-902F-817B45DB7E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECA8C50-08DD-4AE9-902F-817B45DB7E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAE107F-3408-4144-8B4B-83E4C1932DD5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\MyGit\CSharpPractice\SampleCode\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+C:\MyGit\CSharpPractice\SampleCode\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+C:\MyGit\CSharpPractice\SampleCode\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+C:\MyGit\CSharpPractice\SampleCode\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\SampleCode\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+C:\MyGit\CSharpPractice\SampleCode\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+C:\MyGit\CSharpPractice\SampleCode\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+C:\MyGit\CSharpPractice\SampleCode\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\SampleCode\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\SampleCode\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+C:\MyGit\CSharpPractice\SampleCode\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+C:\MyGit\CSharpPractice\SampleCode\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache

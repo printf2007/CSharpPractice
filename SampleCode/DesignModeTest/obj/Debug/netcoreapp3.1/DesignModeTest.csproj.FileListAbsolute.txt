@@ -1,0 +1,11 @@
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\obj\Debug\netcoreapp3.1\DesignModeTest.csprojAssemblyReference.cache
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\obj\Debug\netcoreapp3.1\DesignModeTest.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\obj\Debug\netcoreapp3.1\DesignModeTest.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\bin\Debug\netcoreapp3.1\DesignModeTest.exe
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\bin\Debug\netcoreapp3.1\DesignModeTest.deps.json
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\bin\Debug\netcoreapp3.1\DesignModeTest.runtimeconfig.json
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\bin\Debug\netcoreapp3.1\DesignModeTest.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\bin\Debug\netcoreapp3.1\DesignModeTest.dll
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\bin\Debug\netcoreapp3.1\DesignModeTest.pdb
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\obj\Debug\netcoreapp3.1\DesignModeTest.dll
+C:\MyGit\CSharpPractice\SampleCode\DesignModeTest\obj\Debug\netcoreapp3.1\DesignModeTest.pdb

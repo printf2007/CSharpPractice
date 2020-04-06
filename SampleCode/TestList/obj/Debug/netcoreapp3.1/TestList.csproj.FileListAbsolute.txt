@@ -1,0 +1,13 @@
+C:\MyGit\CSharpPractice\SampleCode\TestList\obj\Debug\netcoreapp3.1\TestList.csproj.CoreCompileInputs.cache
+C:\MyGit\CSharpPractice\SampleCode\TestList\obj\Debug\netcoreapp3.1\TestList.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\SampleCode\TestList\obj\Debug\netcoreapp3.1\TestList.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\SampleCode\TestList\bin\Debug\netcoreapp3.1\TestList.exe
+C:\MyGit\CSharpPractice\SampleCode\TestList\bin\Debug\netcoreapp3.1\TestList.deps.json
+C:\MyGit\CSharpPractice\SampleCode\TestList\bin\Debug\netcoreapp3.1\TestList.runtimeconfig.json
+C:\MyGit\CSharpPractice\SampleCode\TestList\bin\Debug\netcoreapp3.1\TestList.runtimeconfig.dev.json
+C:\MyGit\CSharpPractice\SampleCode\TestList\bin\Debug\netcoreapp3.1\TestList.dll
+C:\MyGit\CSharpPractice\SampleCode\TestList\bin\Debug\netcoreapp3.1\TestList.pdb
+C:\MyGit\CSharpPractice\SampleCode\TestList\obj\Debug\netcoreapp3.1\TestList.dll
+C:\MyGit\CSharpPractice\SampleCode\TestList\obj\Debug\netcoreapp3.1\TestList.pdb
+C:\MyGit\CSharpPractice\SampleCode\TestList\obj\Debug\netcoreapp3.1\TestList.genruntimeconfig.cache
+C:\MyGit\CSharpPractice\SampleCode\TestList\obj\Debug\netcoreapp3.1\TestList.csprojAssemblyReference.cache

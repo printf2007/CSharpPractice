@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyGit\\CSharpPractice\\Hash\\Hash.csproj",
+      "projectUniqueName": "C:\\MyGit\\CSharpPractice\\SampleCode\\Hash\\Hash.csproj",
       "projectName": "Hash",
-      "projectPath": "C:\\MyGit\\CSharpPractice\\Hash\\Hash.csproj",
+      "projectPath": "C:\\MyGit\\CSharpPractice\\SampleCode\\Hash\\Hash.csproj",
       "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
-      "outputPath": "C:\\MyGit\\CSharpPractice\\Hash\\obj\\",
+      "outputPath": "C:\\MyGit\\CSharpPractice\\SampleCode\\Hash\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,7 +32,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

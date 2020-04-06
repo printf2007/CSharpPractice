@@ -1,0 +1,1 @@
+C:\MyGit\CSharpPractice\SampleCode\NewXAML\NewXAML.csproj;x86
