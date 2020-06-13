@@ -1,0 +1,3 @@
+﻿  HelloWorld.cpp
+C:\MyGit\CSharpPractice\SampleCode\HelloWorld\HelloWorld.cpp(8,13): warning C4930: “complex c3(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  HelloWorld.vcxproj -> C:\MyGit\CSharpPractice\SampleCode\HelloWorld\Debug\HelloWorld.exe

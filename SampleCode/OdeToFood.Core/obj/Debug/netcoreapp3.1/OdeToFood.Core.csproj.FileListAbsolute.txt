@@ -1,0 +1,9 @@
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\MyGit\CSharpPractice\SampleCode\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csprojAssemblyReference.cache

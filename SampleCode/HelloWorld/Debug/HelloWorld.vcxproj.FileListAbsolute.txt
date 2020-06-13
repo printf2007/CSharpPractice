@@ -1,0 +1,2 @@
+C:\MyGit\CSharpPractice\SampleCode\HelloWorld\Debug\HelloWorld.exe
+C:\MyGit\CSharpPractice\SampleCode\HelloWorld\Debug\HelloWorld.pdb
